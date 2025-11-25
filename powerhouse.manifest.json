@@ -1,0 +1,27 @@
+{
+    "name": "",
+    "description": "",
+    "category": "",
+    "publisher": {
+        "name": "",
+        "url": ""
+    },
+    "documentModels": [
+        {
+            "id": "crypto/transaction-analytics",
+            "name": "CryptoTransactionAnalytics"
+        }
+    ],
+    "editors": [
+        {
+            "id": "crypto-transaction-analytics-editor",
+            "name": "Crypto Transaction Analytics Editor",
+            "documentTypes": [
+                "crypto/transaction-analytics"
+            ]
+        }
+    ],
+    "apps": [],
+    "subgraphs": [],
+    "importScripts": []
+}
